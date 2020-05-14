@@ -1,0 +1,19 @@
+C:\Users\ogün öksüz\Documents\Visual Studio 2015\Projects\selmanödev\ball\bin\Debug\ball.exe.config
+C:\Users\ogün öksüz\Documents\Visual Studio 2015\Projects\selmanödev\ball\obj\Debug\ball.csprojResolveAssemblyReference.cache
+C:\Users\ogün öksüz\Documents\Visual Studio 2015\Projects\selmanödev\ball\obj\Debug\ball.Form1.resources
+C:\Users\ogün öksüz\Documents\Visual Studio 2015\Projects\selmanödev\ball\obj\Debug\ball.Properties.Resources.resources
+C:\Users\ogün öksüz\Documents\Visual Studio 2015\Projects\selmanödev\ball\obj\Debug\ball.csproj.GenerateResource.Cache
+C:\Users\ogün öksüz\Documents\Visual Studio 2015\Projects\selmanödev\ball\bin\Debug\ball.exe
+C:\Users\ogün öksüz\Documents\Visual Studio 2015\Projects\selmanödev\ball\bin\Debug\ball.pdb
+C:\Users\ogün öksüz\Documents\Visual Studio 2015\Projects\selmanödev\ball\obj\Debug\ball.exe
+C:\Users\ogün öksüz\Documents\Visual Studio 2015\Projects\selmanödev\ball\obj\Debug\ball.pdb
+D:\eski\selmanödev\ball\bin\Debug\ball.exe.config
+D:\eski\selmanödev\ball\bin\Debug\ball.exe
+D:\eski\selmanödev\ball\bin\Debug\ball.pdb
+D:\eski\selmanödev\ball\obj\Debug\ball.csprojAssemblyReference.cache
+D:\eski\selmanödev\ball\obj\Debug\ball.Form1.resources
+D:\eski\selmanödev\ball\obj\Debug\ball.Properties.Resources.resources
+D:\eski\selmanödev\ball\obj\Debug\ball.csproj.GenerateResource.cache
+D:\eski\selmanödev\ball\obj\Debug\ball.csproj.CoreCompileInputs.cache
+D:\eski\selmanödev\ball\obj\Debug\ball.exe
+D:\eski\selmanödev\ball\obj\Debug\ball.pdb

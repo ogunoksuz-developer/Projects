@@ -1,0 +1,13 @@
+D:\Projeler\Projelerim\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+D:\Projeler\Projelerim\ConsoleApp\bin\Debug\ConsoleApp.exe
+D:\Projeler\Projelerim\ConsoleApp\bin\Debug\ConsoleApp.pdb
+D:\Projeler\Projelerim\ConsoleApp\obj\Debug\ConsoleApp.exe
+D:\Projeler\Projelerim\ConsoleApp\obj\Debug\ConsoleApp.pdb
+D:\Projeler\Projelerim\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+D:\eski\ders\Projeler\Projelerim\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+D:\eski\ders\Projeler\Projelerim\ConsoleApp\bin\Debug\ConsoleApp.exe
+D:\eski\ders\Projeler\Projelerim\ConsoleApp\bin\Debug\ConsoleApp.pdb
+D:\eski\ders\Projeler\Projelerim\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+D:\eski\ders\Projeler\Projelerim\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\eski\ders\Projeler\Projelerim\ConsoleApp\obj\Debug\ConsoleApp.exe
+D:\eski\ders\Projeler\Projelerim\ConsoleApp\obj\Debug\ConsoleApp.pdb

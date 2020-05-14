@@ -1,0 +1,6 @@
+c:\users\ogün öksüz\documents\visual studio 2015\Projects\selmanödev\selmanödev\bin\Debug\selmanödev.exe.config
+c:\users\ogün öksüz\documents\visual studio 2015\Projects\selmanödev\selmanödev\bin\Debug\selmanödev.exe
+c:\users\ogün öksüz\documents\visual studio 2015\Projects\selmanödev\selmanödev\bin\Debug\selmanödev.pdb
+c:\users\ogün öksüz\documents\visual studio 2015\Projects\selmanödev\selmanödev\obj\Debug\selmanödev.csprojResolveAssemblyReference.cache
+c:\users\ogün öksüz\documents\visual studio 2015\Projects\selmanödev\selmanödev\obj\Debug\selmanödev.exe
+c:\users\ogün öksüz\documents\visual studio 2015\Projects\selmanödev\selmanödev\obj\Debug\selmanödev.pdb

@@ -1,0 +1,4 @@
+D:\Projeler\Alarm\Alarm\bin\Release\Alarm.exe.config
+D:\Projeler\Alarm\Alarm\obj\Release\Interop.WMPLib.dll
+D:\Projeler\Alarm\Alarm\obj\Release\AxInterop.WMPLib.dll
+D:\Projeler\Alarm\Alarm\obj\Release\Alarm.csproj.ResolveComReference.cache

@@ -1,0 +1,6 @@
+C:\Users\ogün öksüz\Documents\Visual Studio 2015\Projects\selmanödev\benzetim\bin\Debug\benzetim.exe.config
+C:\Users\ogün öksüz\Documents\Visual Studio 2015\Projects\selmanödev\benzetim\bin\Debug\benzetim.exe
+C:\Users\ogün öksüz\Documents\Visual Studio 2015\Projects\selmanödev\benzetim\bin\Debug\benzetim.pdb
+C:\Users\ogün öksüz\Documents\Visual Studio 2015\Projects\selmanödev\benzetim\obj\Debug\benzetim.csprojResolveAssemblyReference.cache
+C:\Users\ogün öksüz\Documents\Visual Studio 2015\Projects\selmanödev\benzetim\obj\Debug\benzetim.exe
+C:\Users\ogün öksüz\Documents\Visual Studio 2015\Projects\selmanödev\benzetim\obj\Debug\benzetim.pdb

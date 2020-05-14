@@ -1,0 +1,23 @@
+c:\users\ogun\documents\visual studio 2012\Projects\Alarm\Alarm\bin\Debug\Alarm.exe.config
+c:\users\ogun\documents\visual studio 2012\Projects\Alarm\Alarm\bin\Debug\Alarm.exe
+c:\users\ogun\documents\visual studio 2012\Projects\Alarm\Alarm\bin\Debug\Alarm.pdb
+c:\users\ogun\documents\visual studio 2012\Projects\Alarm\Alarm\obj\Debug\Alarm.csprojResolveAssemblyReference.cache
+c:\users\ogun\documents\visual studio 2012\Projects\Alarm\Alarm\obj\Debug\Alarm.Form1.resources
+c:\users\ogun\documents\visual studio 2012\Projects\Alarm\Alarm\obj\Debug\Alarm.Properties.Resources.resources
+c:\users\ogun\documents\visual studio 2012\Projects\Alarm\Alarm\obj\Debug\Alarm.csproj.GenerateResource.Cache
+c:\users\ogun\documents\visual studio 2012\Projects\Alarm\Alarm\obj\Debug\Alarm.exe
+c:\users\ogun\documents\visual studio 2012\Projects\Alarm\Alarm\obj\Debug\Alarm.pdb
+D:\Projeler\Alarm\Alarm\bin\Debug\Alarm.exe.config
+D:\Projeler\Alarm\Alarm\obj\Debug\Alarm.exe
+D:\Projeler\Alarm\Alarm\obj\Debug\Alarm.pdb
+D:\Projeler\Alarm\Alarm\bin\Debug\Alarm.exe
+D:\Projeler\Alarm\Alarm\bin\Debug\Alarm.pdb
+D:\Projeler\Alarm\Alarm\obj\Debug\Alarm.csprojResolveAssemblyReference.cache
+D:\Projeler\Alarm\Alarm\obj\Debug\Alarm.Form1.resources
+D:\Projeler\Alarm\Alarm\obj\Debug\Alarm.Properties.Resources.resources
+D:\Projeler\Alarm\Alarm\obj\Debug\Alarm.csproj.GenerateResource.Cache
+D:\Projeler\Alarm\Alarm\obj\Debug\Interop.WMPLib.dll
+D:\Projeler\Alarm\Alarm\obj\Debug\Alarm.csproj.ResolveComReference.cache
+D:\Projeler\Alarm\Alarm\bin\Debug\Interop.WMPLib.dll
+D:\Projeler\Alarm\Alarm\bin\Debug\AxInterop.WMPLib.dll
+D:\Projeler\Alarm\Alarm\obj\Debug\AxInterop.WMPLib.dll

@@ -1,0 +1,6 @@
+C:\Users\ogün öksüz\Documents\Visual Studio 2015\Projects\selmanödev\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\ogün öksüz\Documents\Visual Studio 2015\Projects\selmanödev\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\ogün öksüz\Documents\Visual Studio 2015\Projects\selmanödev\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\ogün öksüz\Documents\Visual Studio 2015\Projects\selmanödev\ConsoleApplication1\obj\Debug\getset.csprojResolveAssemblyReference.cache
+C:\Users\ogün öksüz\Documents\Visual Studio 2015\Projects\selmanödev\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\ogün öksüz\Documents\Visual Studio 2015\Projects\selmanödev\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

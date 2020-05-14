@@ -1,0 +1,5 @@
+D:\Projeler\HesapMakinesi2\Hesaplama\bin\Debug\Hesaplama.dll
+D:\Projeler\HesapMakinesi2\Hesaplama\bin\Debug\Hesaplama.pdb
+D:\Projeler\HesapMakinesi2\Hesaplama\obj\Debug\Hesaplama.dll
+D:\Projeler\HesapMakinesi2\Hesaplama\obj\Debug\Hesaplama.pdb
+D:\Projeler\HesapMakinesi2\Hesaplama\obj\Debug\Hesaplama.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+D:\Projeler\Projelerim\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Projeler\Projelerim\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Projeler\Projelerim\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Projeler\Projelerim\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Projeler\Projelerim\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Projeler\Projelerim\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Projeler\Projelerim\ConsoleApplication1\bin\Debug\Database1.mdf
+D:\Projeler\Projelerim\ConsoleApplication1\bin\Debug\Database1_log.ldf
+D:\eski\ders\Projeler\Projelerim\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\eski\ders\Projeler\Projelerim\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe

@@ -1,0 +1,11 @@
+D:\Projeler\Projelerim\MusteriKayit\bin\Debug\Database1.mdf
+D:\Projeler\Projelerim\MusteriKayit\bin\Debug\Database1_log.ldf
+D:\Projeler\Projelerim\MusteriKayit\bin\Debug\MusteriKayit.exe.config
+D:\Projeler\Projelerim\MusteriKayit\bin\Debug\MusteriKayit.exe
+D:\Projeler\Projelerim\MusteriKayit\bin\Debug\MusteriKayit.pdb
+D:\Projeler\Projelerim\MusteriKayit\obj\Debug\MusteriKayit.csprojResolveAssemblyReference.cache
+D:\Projeler\Projelerim\MusteriKayit\obj\Debug\MusteriKayit.Form1.resources
+D:\Projeler\Projelerim\MusteriKayit\obj\Debug\MusteriKayit.Properties.Resources.resources
+D:\Projeler\Projelerim\MusteriKayit\obj\Debug\MusteriKayit.csproj.GenerateResource.Cache
+D:\Projeler\Projelerim\MusteriKayit\obj\Debug\MusteriKayit.exe
+D:\Projeler\Projelerim\MusteriKayit\obj\Debug\MusteriKayit.pdb

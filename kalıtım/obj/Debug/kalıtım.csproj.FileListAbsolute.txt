@@ -1,0 +1,5 @@
+C:\Users\ogün öksüz\Documents\Visual Studio 2015\Projects\selmanödev\kalıtım\bin\Debug\kalıtım.exe.config
+C:\Users\ogün öksüz\Documents\Visual Studio 2015\Projects\selmanödev\kalıtım\bin\Debug\kalıtım.exe
+C:\Users\ogün öksüz\Documents\Visual Studio 2015\Projects\selmanödev\kalıtım\bin\Debug\kalıtım.pdb
+C:\Users\ogün öksüz\Documents\Visual Studio 2015\Projects\selmanödev\kalıtım\obj\Debug\kalıtım.exe
+C:\Users\ogün öksüz\Documents\Visual Studio 2015\Projects\selmanödev\kalıtım\obj\Debug\kalıtım.pdb

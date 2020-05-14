@@ -1,0 +1,10 @@
+D:\Projeler\Projelerim\Test\bin\Debug\Test.exe.config
+D:\Projeler\Projelerim\Test\bin\Debug\Test.exe
+D:\Projeler\Projelerim\Test\bin\Debug\Test.pdb
+D:\Projeler\Projelerim\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Projeler\Projelerim\Test\obj\Debug\Test.Mukemmel.resources
+D:\Projeler\Projelerim\Test\obj\Debug\Test.Properties.Resources.resources
+D:\Projeler\Projelerim\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+D:\Projeler\Projelerim\Test\obj\Debug\Test.exe
+D:\Projeler\Projelerim\Test\obj\Debug\Test.pdb
+D:\Projeler\Projelerim\Test\obj\Debug\Test.Form1.resources

@@ -1,0 +1,12 @@
+c:\users\ogun\documents\visual studio 2012\Projects\sayıbulma\sayıbulma\bin\Debug\sayıbulma.exe.config
+c:\users\ogun\documents\visual studio 2012\Projects\sayıbulma\sayıbulma\bin\Debug\sayıbulma.exe
+c:\users\ogun\documents\visual studio 2012\Projects\sayıbulma\sayıbulma\bin\Debug\sayıbulma.pdb
+c:\users\ogun\documents\visual studio 2012\Projects\sayıbulma\sayıbulma\obj\Debug\sayıbulma.csprojResolveAssemblyReference.cache
+c:\users\ogun\documents\visual studio 2012\Projects\sayıbulma\sayıbulma\obj\Debug\sayıbulma.exe
+c:\users\ogun\documents\visual studio 2012\Projects\sayıbulma\sayıbulma\obj\Debug\sayıbulma.pdb
+D:\Projeler\sayıbulma\sayıbulma\bin\Debug\sayıbulma.exe.config
+D:\Projeler\sayıbulma\sayıbulma\obj\Debug\sayıbulma.exe
+D:\Projeler\sayıbulma\sayıbulma\obj\Debug\sayıbulma.pdb
+D:\Projeler\sayıbulma\sayıbulma\bin\Debug\sayıbulma.exe
+D:\Projeler\sayıbulma\sayıbulma\bin\Debug\sayıbulma.pdb
+D:\Projeler\sayıbulma\sayıbulma\obj\Debug\sayıbulma.csprojResolveAssemblyReference.cache

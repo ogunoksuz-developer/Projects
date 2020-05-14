@@ -1,0 +1,36 @@
+c:\users\ogun\documents\visual studio 2012\Projects\HesapMakinesi2\HesapMakinesi2\bin\Debug\HesapMakinesi2.exe.config
+c:\users\ogun\documents\visual studio 2012\Projects\HesapMakinesi2\HesapMakinesi2\bin\Debug\HesapMakinesi2.exe
+c:\users\ogun\documents\visual studio 2012\Projects\HesapMakinesi2\HesapMakinesi2\bin\Debug\HesapMakinesi2.pdb
+c:\users\ogun\documents\visual studio 2012\Projects\HesapMakinesi2\HesapMakinesi2\obj\Debug\HesapMakinesi2.Form1.resources
+c:\users\ogun\documents\visual studio 2012\Projects\HesapMakinesi2\HesapMakinesi2\obj\Debug\HesapMakinesi2.Properties.Resources.resources
+c:\users\ogun\documents\visual studio 2012\Projects\HesapMakinesi2\HesapMakinesi2\obj\Debug\HesapMakinesi2.csproj.GenerateResource.Cache
+c:\users\ogun\documents\visual studio 2012\Projects\HesapMakinesi2\HesapMakinesi2\obj\Debug\HesapMakinesi2.exe
+c:\users\ogun\documents\visual studio 2012\Projects\HesapMakinesi2\HesapMakinesi2\obj\Debug\HesapMakinesi2.pdb
+c:\users\ogun\documents\visual studio 2012\Projects\HesapMakinesi2\HesapMakinesi2\obj\Debug\HesapMakinesi2.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2012\Projects\HesapMakinesi2\HesapMakinesi2\bin\Debug\HesapMakinesi2.exe.config
+D:\Visual Studio 2012\Projects\HesapMakinesi2\HesapMakinesi2\obj\Debug\HesapMakinesi2.exe
+D:\Visual Studio 2012\Projects\HesapMakinesi2\HesapMakinesi2\obj\Debug\HesapMakinesi2.pdb
+D:\Projeler\HesapMakinesi2\HesapMakinesi2\bin\Debug\HesapMakinesi2.exe
+D:\Projeler\HesapMakinesi2\HesapMakinesi2\bin\Debug\Hesaplama.dll
+D:\Projeler\HesapMakinesi2\HesapMakinesi2\bin\Debug\Hesaplama.pdb
+D:\Projeler\HesapMakinesi2\HesapMakinesi2\obj\Debug\HesapMakinesi2.csprojResolveAssemblyReference.cache
+D:\Projeler\HesapMakinesi2\HesapMakinesi2\obj\Debug\HesapMakinesi2.AcilisEkrani.resources
+D:\Projeler\HesapMakinesi2\HesapMakinesi2\obj\Debug\HesapMakinesi2.Form1.resources
+D:\Projeler\HesapMakinesi2\HesapMakinesi2\obj\Debug\HesapMakinesi2.Properties.Resources.resources
+D:\Projeler\HesapMakinesi2\HesapMakinesi2\obj\Debug\HesapMakinesi2.csproj.GenerateResource.Cache
+D:\Projeler\HesapMakinesi2\HesapMakinesi2\obj\Debug\HesapMakinesi2.exe
+D:\Projeler\HesapMakinesi2\HesapMakinesi2\obj\Debug\HesapMakinesi2.pdb
+D:\Projeler\HesapMakinesi2\HesapMakinesi2\bin\Debug\HesapMakinesi2.exe.config
+D:\Projeler\HesapMakinesi2\HesapMakinesi2\bin\Debug\HesapMakinesi2.pdb
+D:\Projeler\Projelerim\HesapMakinesi2\bin\Debug\HesapMakinesi2.exe.config
+D:\Projeler\Projelerim\HesapMakinesi2\obj\Debug\HesapMakinesi2.exe
+D:\Projeler\Projelerim\HesapMakinesi2\obj\Debug\HesapMakinesi2.pdb
+D:\Projeler\Projelerim\HesapMakinesi2\bin\Debug\HesapMakinesi2.exe
+D:\Projeler\Projelerim\HesapMakinesi2\bin\Debug\HesapMakinesi2.pdb
+D:\Projeler\Projelerim\HesapMakinesi2\bin\Debug\Hesaplama.dll
+D:\Projeler\Projelerim\HesapMakinesi2\bin\Debug\Hesaplama.pdb
+D:\Projeler\Projelerim\HesapMakinesi2\obj\Debug\HesapMakinesi2.csprojResolveAssemblyReference.cache
+D:\Projeler\Projelerim\HesapMakinesi2\obj\Debug\HesapMakinesi2.AcilisEkrani.resources
+D:\Projeler\Projelerim\HesapMakinesi2\obj\Debug\HesapMakinesi2.Form1.resources
+D:\Projeler\Projelerim\HesapMakinesi2\obj\Debug\HesapMakinesi2.Properties.Resources.resources
+D:\Projeler\Projelerim\HesapMakinesi2\obj\Debug\HesapMakinesi2.csproj.GenerateResource.Cache
